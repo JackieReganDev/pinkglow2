@@ -4502,7 +4502,10 @@ p{
     -o-transition: all 0.3s ease-out;
     transition: all 0.3s ease-out;
 }
-
+.sc_team_item_avatar img {
+    height: 175px;
+    
+}
 /* 8.2 Reviews block
 -------------------------------------------------------------- */
 .reviews_block {
