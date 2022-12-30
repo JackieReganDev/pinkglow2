@@ -851,7 +851,10 @@ background-size: cover;
 .services1 .top_panel_image {
 	background-image: url(../images/1170x700.jpg);
 }
-
+/* #skin{
+    background-image: url("../images/anteage-info.jpg") !important;
+	z-index: 1;
+} */
 .singlepost .top_panel_image {
 	background-image: url(../images/370x370.jpg)
 }

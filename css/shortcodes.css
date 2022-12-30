@@ -3671,8 +3671,10 @@ body.sidebar_hide .sc_recent_news_style_news-announce .post_size_small {
 }
 #babyPom{
     padding-top: 2.5em;
+    margin: 0 auto;
+    width: 50%;
     color: teal !important;
-    font-size: 2.5em;
+    font-size: 3.3em !important;
     font-family: "Dancing Script", cursive;
 
 }

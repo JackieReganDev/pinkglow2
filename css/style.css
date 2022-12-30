@@ -4506,6 +4506,33 @@ p{
     height: 175px;
     
 }
+#infoPic{
+    height: 36rem;
+    border-radius: 10%;
+    width: auto;
+    padding-bottom: 20px;
+}
+#introPic{
+    height: 33rem;
+    border-radius: 10%;
+    width: auto;
+    padding-bottom: 20px;
+}
+#ellie{
+    font-family: 'Andika', sans-serif;
+    width: 50%;
+    margin: 0 auto;
+    color:#222222 !important;
+    padding-bottom: 20px;
+}
+@media screen and (max-width: 920px) {
+    #ellie{
+        width: 100%;
+    }
+}
+/* #skin{
+    background-image: url("../images/anteage-info.jpg") !important;
+} */
 /* 8.2 Reviews block
 -------------------------------------------------------------- */
 .reviews_block {
